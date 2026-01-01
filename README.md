@@ -1,35 +1,36 @@
 # 💫 About Me:
-👋 Hi, I'm Sunny  
-I'm a B.Sc Computer Science student, passionate about technology, data analysis, and web development.  
-I love learning new things, building projects, and improving myself step by step.
 
-🎓 B.Sc Computer Science student with a growing foundation in programming and computer science  
+👋 Hi, I'm **Sunny Chaurasiya**  
+I'm a **B.Sc Computer Science student**, passionate about **Data Analysis, Web Development, and emerging technologies**.  
+I enjoy learning by building projects and improving myself step by step 🚀  
 
-💻 Interested in Python, Data Analysis, and Web Development  
+🎓 B.Sc Computer Science student with a growing foundation in programming  
 
-📊 Exploring Data Analytics tools like Pandas, NumPy, and Visualization  
+💻 Interested in **Python, Data Analysis, and Web Development**  
 
-🤖 Curious about Artificial Intelligence, Machine Learning, and real-world applications  
+📊 Exploring **Pandas, NumPy, Matplotlib, and Data Visualization**  
 
-🚀 Always trying to learn through projects and practice  
+🤖 Curious about **Artificial Intelligence & Machine Learning**  
 
-📚 Constant learner, currently focusing on Python, GitHub, and problem solving  
+🚀 Learning through hands-on projects and practice  
+
+📚 Constant learner, currently focusing on **Python, GitHub, and problem-solving**  
 
 🌐 Open to collaboration and learning from the developer community  
 
-🎯 Career goal: To become a Data Analyst / Data Scientist  
+🎯 **Career Goal:** Data Analyst / Data Scientist  
 
-📫 How to reach me:  
-📧 Email: yourmail@gmail.com  
-💼 LinkedIn: your-link-here  
-🌍 Portfolio: coming soon  
+📫 **Reach me at:**  
+📧 Email: **sunnychaurashiya76@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/sunny-chaurasiya-1507a7319/  
+📸 Instagram: **sunnyxalert**
 
 ---
 
 ## 🌐 Socials:
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunnyxalert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-chaurasiya-1507a7319/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnychaurashiya76@gmail.com)
 
 ---
 
@@ -46,10 +47,18 @@ I love learning new things, building projects, and improving myself step by step
 
 ---
 
-# 📊 GitHub Stats:
+## 🚀 Currently Learning
+- Python for Data Analysis  
+- Data Visualization  
+- Git & GitHub  
+- Basics of Machine Learning  
+
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alert9820&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Alert9820&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alert9820&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alert9820&theme=dark&layout=compact)
 
 ---
 
@@ -63,4 +72,9 @@ I love learning new things, building projects, and improving myself step by step
 
 ---
 
+## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=Alert9820&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+⭐ *“Learning every day, one step closer to my goals.”*
