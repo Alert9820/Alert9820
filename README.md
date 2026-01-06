@@ -1,80 +1,90 @@
-# 💫 About Me:
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Sunny%20Chaurasiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ================= STATUS BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/status-learning-brightgreen.svg"/>
+  <img src="https://img.shields.io/badge/Python-Beginner-blue.svg"/>
+  <img src="https://img.shields.io/github/stars/Alert9820/Alert9820?logo=github"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alert9820.Alert9820"/>
+</p>
+
+<!-- ================= TYPING EFFECT ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Sunny+Chaurasiya;B.Sc+Computer+Science+Student;Learning+Python+%26+Data+Analysis;Future+Data+Scientist;Always+learning+new+things"/>
+</p>
+
+---
+
+## 💫 About Me
 
 👋 Hi, I'm **Sunny Chaurasiya**  
-I'm a **B.Sc Computer Science student**, passionate about **Data Analysis, Web Development, and emerging technologies**.  
-I enjoy learning by building projects and improving myself step by step 🚀  
-
-🎓 B.Sc Computer Science student with a growing foundation in programming  
-
-💻 Interested in **Python, Data Analysis, and Web Development**  
-
-📊 Exploring **Pandas, NumPy, Matplotlib, and Data Visualization**  
-
-🤖 Curious about **Artificial Intelligence & Machine Learning**  
-
-🚀 Learning through hands-on projects and practice  
-
-📚 Constant learner, currently focusing on **Python, GitHub, and problem-solving**  
-
-🌐 Open to collaboration and learning from the developer community  
-
+🎓 **B.Sc Computer Science Student**  
+💻 Learning **Python, Data Analysis & Web Development**  
+📊 Exploring **Pandas, NumPy & Data Visualization**  
+🤖 Curious about **AI & Machine Learning**  
+🚀 Building small projects & improving daily  
 🎯 **Career Goal:** Data Analyst / Data Scientist  
 
-📫 **Reach me at:**  
-📧 Email: **sunnychaurashiya76@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/sunny-chaurasiya-1507a7319/  
-📸 Instagram: **sunnyxalert**
+📫 **Reach Me**  
+- 📧 Email: **sunnychaurashiya76@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/sunny-chaurasiya-1507a7319/  
+- 📸 Instagram: https://instagram.com/sunnyxalert  
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunnyxalert)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-chaurasiya-1507a7319/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnychaurashiya76@gmail.com)
+## 🌐 Socials
+<p align="left">
+<a href="https://instagram.com/sunnyxalert"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sunny-chaurasiya-1507a7319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sunnychaurashiya76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## 💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib"/>
+</p>
 
 ---
 
-## 🚀 Currently Learning
-- Python for Data Analysis  
-- Data Visualization  
-- Git & GitHub  
-- Basics of Machine Learning  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Alert9820&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alert9820&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alert9820&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alert9820&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Alert9820&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alert9820&theme=dark&layout=compact)
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Alert9820/Alert9820/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alert9820&theme=radical&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Alert9820&theme=radical&margin-w=8"/>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Alert9820&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-⭐ *“Learning every day, one step closer to my goals.”*
+⭐ *Consistency beats talent when talent doesn’t work consistently.*
